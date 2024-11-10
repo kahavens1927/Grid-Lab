@@ -27,17 +27,19 @@ header {
   font-weight: bold;
   font-size: small;
 
-
 }
 
-.infoBox img {
+
+img {
 
   width: 150px;
   height: 150px;
   border-radius: 15px;
   border: 5px solid #0a3459;
   margin: 6px;
+
 }
+
 
 article {
 
@@ -49,14 +51,6 @@ article {
 
 }
 
-.infobox {
-
-    
-    width: 100%;
-  height: 100%;
-  border-radius: 10px;
-
-}
 
 aside {
 
@@ -89,10 +83,10 @@ footer {
 
     aside {
 
-        grid-column: 1/5;
-    grid-row: 4/7;
-    font-size: small;
-    font-family: "Comic Sans MS";
+      grid-column: 1/5;
+      grid-row: 4/7;
+      font-size: small;
+      font-family: "Comic Sans MS";
 
 
     }
